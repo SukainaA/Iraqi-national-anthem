@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black
+}
+#container {
+    text-align: center;
+    background-color: black
+   
+}
+h1 {
+    color: white;
+}
+#instructions {
+    margin-bottom: 1rem;
+    color: white;
+}
+#note-display {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
